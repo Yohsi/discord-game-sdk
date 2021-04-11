@@ -1,4 +1,6 @@
 ## Discord Game SDK
+This is simply a git mirror of the C++ version of Discord Game SDK, to easily integrate it using git submodules. 
+
 
 > The SDK is currently under extensive development and is subject to change. Suggestions
 > about the current API are welcome.
